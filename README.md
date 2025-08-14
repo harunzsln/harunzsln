@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Harun Ozaslan</h1>
 <h3 align="center">A passionate Jr. Full Stack Developer</h3>
 
+ Click to Go to My Personal Website](https://www.harunzsln.com)
+
 
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+#### You can read my medium posts by clicking [here](https://medium.com/@harunzsln0).
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
