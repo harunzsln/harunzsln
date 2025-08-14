@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harun Ozaslan</h1>
 <h3 align="center">A passionate Jr. Full Stack Developer</h3>
 
- Click to Go to My Personal Website](https://www.harunzsln.com)
+ [Click to Go to My Personal Website](https://www.harunzsln.com)
 
 
 
