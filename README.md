@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
+  <img alt="Harun Ozaslan" src="assets/dark.svg">
+</picture>
+
 <h1 align="center">Hi 👋, I'm Harun Ozaslan</h1>
 <h3 align="center">A passionate Jr. Software Developer</h3>
 
